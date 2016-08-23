@@ -16,3 +16,6 @@
 [submodule "plugins/generic/anonymIP"]
 	path = plugins/generic/anonymIP
 	url = https://github.com/cedis-epublishing/anonymIP.git
+[submodule "plugins/generic/defaultTranslation"]
+	path = plugins/generic/defaultTranslation
+	url = https://github.com/pkp/defaultTranslation.git
